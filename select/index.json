@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "偽顔",
+  "base_artist": "yama",
+  "createdAt": "2026-02-06T15:50:09.455049Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "偽顔",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/01_偽顔_yama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "偽顔 - Nisekao",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/02_偽顔_-_Nisekao_yama.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "偽顔",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/03_偽顔_yama.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "偽顔 (yama) ／ダズビー COVER",
+      "artist": "DAZBEE",
+      "has_synced": true,
+      "path": "select/04_偽顔_(yama)__ダズビー_COVER_DAZBEE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "偽顔 「www.jpopsingles.eu」",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/05_偽顔_「www.jpopsingles.eu」_yama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "偽顔",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_偽顔_yama.txt"
+    }
+  ]
+}
